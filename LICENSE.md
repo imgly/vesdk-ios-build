@@ -1,10 +1,10 @@
-# Video Editor Software Development Kit (SDK)
+# VideoEditor SDK
 ## Terms of Service
 
 
 ### 1. Subject Matter
 
-1.1 These Terms of Service (together with any applicable Order Form the “__Agreement__”) governs all rights granted by Licensor to use and commercially exploit the Video Editor Software Development Kit (the “__Software__”).
+1.1 These Terms of Service (together with any applicable Order Form the “__Agreement__”) governs all rights granted by Licensor to use and commercially exploit the VideoEditor SDK (the “__Software__”).
 
 1.2 The Agreement is entered into by and between img.ly GmbH, Kortumstraße 68, 44787 Bochum, Germany (the “__Licensor__”) and the entity identified in the Order Form (the “__Licensee__”, together with Licensor the “__Parties__”) as of the effective date the Order Form is last signed on.
 
