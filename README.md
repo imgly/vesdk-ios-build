@@ -2,7 +2,13 @@
     <a target="_blank" href="https://www.videoeditorsdk.com/?utm_campaign=Projects&utm_source=Github&utm_medium=VESDK&utm_content=iOS"><img src="https://video.photoeditorsdk.com/assets/img/vesdk-logo-s.svg" alt="VideoEditor SDK Logo"/></a>
 </p>
 <p align="center">
-
+	<a href="https://cocoapods.org/pods/VideoEditorSDK">
+		<img src="https://img.shields.io/cocoapods/v/VideoEditorSDK.svg" alt="CocoaPods Compatible">
+	</a>
+	<a href="http://twitter.com/VideoEditorSDK">
+		<img src="https://img.shields.io/badge/twitter-@VideoEditorSDK-blue.svg?style=flat" alt="Twitter">
+	</a>
+</p>
 
 # Seamlessly integrate video creation into your iOS applications
 
