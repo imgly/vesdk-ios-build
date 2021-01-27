@@ -2,11 +2,17 @@
     <a target="_blank" href="https://www.videoeditorsdk.com/?utm_campaign=Projects&utm_source=Github&utm_medium=VESDK&utm_content=iOS&utm_term=Build"><img src="https://static.photoeditorsdk.com/vesdk/vesdk-logo-s.svg" alt="VideoEditor SDK Logo"/></a>
 </p>
 <p align="center">
+	<a href="https://swiftpackageindex.com/imgly/vesdk-ios-build">
+		<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fimgly%2Fvesdk-ios-build%2Fbadge%3Ftype%3Dplatforms" alt="Swift Package Manager Compatible">
+	</a>
+	<a href="https://swiftpackageindex.com/imgly/vesdk-ios-build">
+		<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fimgly%2Fvesdk-ios-build%2Fbadge%3Ftype%3Dswift-versions" alt="Swift Package Manager Compatible">
+	</a>
 	<a href="https://cocoapods.org/pods/VideoEditorSDK">
-		<img src="https://img.shields.io/cocoapods/v/VideoEditorSDK.svg" alt="CocoaPods Compatible">
+		<img src="https://img.shields.io/cocoapods/v/VideoEditorSDK.svg?label=Pod" alt="CocoaPods Compatible">
 	</a>
 	<a href="http://twitter.com/VideoEditorSDK">
-		<img src="https://img.shields.io/badge/twitter-@VideoEditorSDK-blue.svg?style=flat" alt="Twitter">
+		<img src="https://img.shields.io/badge/twitter-@VideoEditorSDK-blue.svg?label=Twitter&style=flat" alt="Twitter">
 	</a>
 </p>
 
