@@ -1,5 +1,7 @@
 <p align="center">
-    <a target="_blank" href="https://www.videoeditorsdk.com/?utm_campaign=Projects&utm_source=Github&utm_medium=VESDK&utm_content=iOS&utm_term=Build"><img src="https://static.photoeditorsdk.com/vesdk/vesdk-logo-s.svg" alt="VideoEditor SDK Logo"/></a>
+	<a href="https://img.ly/video-sdk?utm_campaign=Projects&utm_source=Github&utm_medium=VESDK&utm_content=IOS-Build">
+		<img src="https://img.ly/static/logos/VE.SDK_Logo.svg" alt="VideoEditor SDK Logo"/>
+	</a>
 </p>
 <p align="center">
 	<a href="https://swiftpackageindex.com/imgly/vesdk-ios-build">
