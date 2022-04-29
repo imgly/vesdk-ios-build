@@ -1,9 +1,9 @@
-// swift-tools-version:5.3
+// swift-tools-version:5.6
 import PackageDescription
 
 let package = Package(
   name: "VideoEditorSDK",
-  platforms: [.iOS(.v9)],
+  platforms: [.iOS(.v13)],
   products: [
     .library(name: "VideoEditorSDK", targets: ["VideoEditorSDK"]),
   ],
