@@ -8,7 +8,7 @@ let package = Package(
     .library(name: "VideoEditorSDK", targets: ["VideoEditorSDK"]),
   ],
   dependencies: [
-    .package(url: "https://github.com/imgly/imglykit-sp.git", exact: "11.3.0")
+    .package(url: "https://github.com/imgly/imglykit-sp.git", exact: "11.3.1")
   ],
   targets: [
     .target(
